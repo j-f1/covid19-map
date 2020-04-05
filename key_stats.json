@@ -1,7 +1,7 @@
 {
-  "positive": 806,
-  "negative": 5584,
+  "positive": 922,
+  "negative": 7181,
   "self_quarantined": 1000,
-  "hospitalized": 93,
-  "deaths": 17
+  "hospitalized": 103,
+  "deaths": 25
 }
